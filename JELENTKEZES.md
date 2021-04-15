@@ -1,1 +1,0 @@
-**A jelentkezéshez nyiss egy új isset az issues fülnél és a címnek ezt add meg(discord neved és azonosítód, és a rang amirejelentkezni szeretnél pl.: Sanyika#1234 Jelentkezése moderátornak) A Lapot a minta alapján töltsd ki!**
